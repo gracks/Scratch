@@ -1,7 +1,8 @@
 Library/
 Temp/
-+*.csproj
-+*.sln
+*.csproj
+*.sln
+*.userprefs
 
 # Windows image file caches
 Thumbs.db
